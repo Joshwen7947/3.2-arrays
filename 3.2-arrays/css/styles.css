@@ -1,0 +1,38 @@
+.programmerNames {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  height: 400px;
+  background-color: cadetblue;
+}
+
+.programmerNames h3 {
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.monthlyBalance {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  height: 400px;
+}
+
+.monthlyBalance h3 {
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.orders {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  height: 400px;
+  background-color: cadetblue;
+}
+
+.orders h3 {
+  padding: 20px;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=styles.css.map */
